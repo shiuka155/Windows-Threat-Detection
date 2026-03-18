@@ -1,0 +1,8 @@
+#PowerShell investigation
+Powershell was used to assist with event log investigaion and filtering.
+
+Example of investigative approaches include:
+- Reviewing event los for specific events IDs
+- Filtering logs based on process activity
+- Identifying suspicious process behavior
+
