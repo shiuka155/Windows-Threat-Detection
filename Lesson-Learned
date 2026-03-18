@@ -1,0 +1,9 @@
+#Lessions learned
+- Windows Event Logs provide critical visibility into system activity
+- Process creation monitoring is one of the most valuable detection sources
+- DNS query monitoring can reveal attacker communication attempts
+- Event correlation helps reconstruct attacker timelines
+- PowerShell can significantly speed up security investigations
+
+This lab strengthened my understanding of endpoint monitoring using RDP and detection techniques used in real-world
+SOC environments
