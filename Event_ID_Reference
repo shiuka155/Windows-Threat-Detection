@@ -1,0 +1,17 @@
+#Key windows / Sysmon Event IDs
+During the investigation, several important event IDs I were analyzed:
+
+##Event ID 1 - Process Creation:
+Track when a new process is created.
+
+Useful for detecting:
+- Suspicious executables
+- Malware execution
+- Unusual parent-child process relationships
+
+##Event ID 22 - DNS Query
+Logs DND requests made by process.
+
+Useful for detecting:
+- Suspicious domain lookups
+- Potential command-and-control communication
