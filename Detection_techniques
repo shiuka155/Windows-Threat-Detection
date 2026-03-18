@@ -1,0 +1,13 @@
+#Detection techniques practiced
+This lab introduced several detection methods used by SOC analysts to identify suspicious activity on Windows systems.
+Key detection areas included:
+- Process creation monitoring
+  -- Monitoring process creation events to identify suspicious executables, unexpected command line arguments, or
+     abnormal parent-child relationships.
+- Network connection monitoring
+  -- Reviewing network connection events to detect possible command-and-control communication or 
+     suspicious outbound connections.
+- File and object activity
+  -- Detecting file-related activity that may indicate malicious execution or persistent attempts.
+- Security event correlation
+  -- Correlating multiple event types to understand attacker behavior and reconstruct attack timeline.
